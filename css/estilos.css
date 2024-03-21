@@ -63,3 +63,11 @@ a{
     padding-left: 40px;
     padding-right: 40px;
 }
+
+.main .titulo{
+    color: #262a34;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 20px;
+}
