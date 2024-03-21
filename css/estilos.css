@@ -12,7 +12,7 @@ a{
 .barra-lateral{
     background: #262a34;
     color: #fff;
-    min-width: 420px;
+    min-width: 300px;
     min-height: 100vh;
     padding: 0;
 }
@@ -41,7 +41,7 @@ a{
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     border-bottom: 1px solid rgba(255,255,255,0.1);
-    font-size: 20px;
+    font-size: 11px;
 }
 
 .barra-lateral .menu a:hover{
@@ -52,4 +52,14 @@ a{
 .barra-lateral .menu a i{
     margin-right: 20px;
     font-weight: normal;
+}
+
+/*--- MAIN --*/
+.main{
+    padding-top: 40px;
+}
+
+.main .columna{
+    padding-left: 40px;
+    padding-right: 40px;
 }
